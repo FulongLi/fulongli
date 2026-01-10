@@ -10,4 +10,4 @@ Power electronics engineer and researcher specializing in advanced converter des
 Python / MATLAB / Simulink | PyTorch / scikit-learn / DEAP / PyMoo | LaTeX / Overleaf / GitHub Pages / Jekyll
 
 ## Links
-[Website](https://spiritconnect.co.uk) | [GitHub](https://github.com/FulongLi) | Writing: Flowanderingworld
+[Spirit Connect - Power Labs](https://fulongli.github.io/SCPowerLabs/) | [GitHub](https://github.com/FulongLi) | [Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
