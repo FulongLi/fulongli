@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Fulong Li, Ph.D., IEEE Member
 
-<!--
-**FulongLi/fulongli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔋 Power Electronics Engineer | 🤖 AI-assisted Design | 🚀 Founder @ Spirit Connect Ltd  
+📍 Cardiff, United Kingdom  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Professional Focus
+- Power electronics & energy conversion
+- SiC / GaN device modeling and optimization
+- AI-driven digital twins & design automation
+- DC microgrids & solid-state transformers
+
+---
+
+## 🏢 Current Work
+- Power Electronics Engineer @ CSA Catapult
+- Founder of **Spirit Connect Ltd**
+  - AI-assisted power electronics optimization
+  - Device & magnetic digital-twin libraries
+
+---
+
+## 📚 Research & Publications
+- Solid-State Transformers (SST)
+- DC microgrids and MV–LV systems
+- ANN-based loss and thermal modeling
+
+---
+
+## 🧠 Creative Work
+- Novelist under the pen name **Flowanderingworld**
+- Sci-fi / philosophy / technology narratives
+- Projects: *Moon Dark Side*, *Spirit Connect*
+
+---
+
+## 🛠️ Tech Stack
+- Python / MATLAB / Simulink
+- PyTorch / scikit-learn / DEAP / PyMoo
+- LaTeX / Overleaf / GitHub Pages / Jekyll
+
+---
+
+## 🌐 Links
+- 🌍 Website: https://spiritconnect.co.uk
+- 📘 GitHub: https://github.com/FulongLi
+- ✍️ Writing: Flowanderingworld
