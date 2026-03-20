@@ -12,6 +12,51 @@ Python / MATLAB / Simulink | PyTorch / scikit-learn / DEAP / PyMoo | LaTeX / Ove
 ## Links
 [Spirit Connect - Power Labs](https://fulongli.github.io/SCPowerLabs/) | [GitHub](https://github.com/FulongLi) | [Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
 
+## My repositories
+
+Public projects on [github.com/FulongLi](https://github.com/FulongLi) ([all repositories](https://github.com/FulongLi?tab=repositories)).
+
+### Profile & sites
+- [fulongli](https://github.com/FulongLi/fulongli) — this profile README  
+- [fulongli.github.io](https://github.com/FulongLi/fulongli.github.io)  
+- [SCPowerLabs](https://github.com/FulongLi/SCPowerLabs)  
+- [spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)  
+- [spiritconnectpowerlabs.github.io](https://github.com/FulongLi/spiritconnectpowerlabs.github.io)  
+- [spiritconnectsciandtec.github.io](https://github.com/FulongLi/spiritconnectsciandtec.github.io)  
+- [hydejack](https://github.com/FulongLi/hydejack) — Jekyll theme (fork)
+
+### Power electronics, converters & systems
+- [PEA](https://github.com/FulongLi/PEA)  
+- [SolidStateTransformer](https://github.com/FulongLi/SolidStateTransformer)  
+- [PEDeviceLib](https://github.com/FulongLi/PEDeviceLib)  
+- [PowerElectronicsDeviceLibrary](https://github.com/FulongLi/PowerElectronicsDeviceLibrary)  
+- [IsolatedCoverters](https://github.com/FulongLi/IsolatedCoverters)  
+- [NonisolatedCoverters](https://github.com/FulongLi/NonisolatedCoverters)  
+- [BuckConverterOptimisation](https://github.com/FulongLi/BuckConverterOptimisation)  
+- [MicrogridEnergyManagementSystermDesign](https://github.com/FulongLi/MicrogridEnergyManagementSystermDesign)  
+- [DCMicrogridTestBench](https://github.com/FulongLi/DCMicrogridTestBench)  
+- [WirelessPowerTransferTestBench](https://github.com/FulongLi/WirelessPowerTransferTestBench)  
+- [HeatSinkOptimisation](https://github.com/FulongLi/HeatSinkOptimisation) — heat sink optimisation project  
+- [DoublePulseTestAutomation](https://github.com/FulongLi/DoublePulseTestAutomation)  
+- [ThermalImpedacenMeasurementAutomation](https://github.com/FulongLi/ThermalImpedacenMeasurementAutomation)  
+
+### Magnetics & sensing
+- [Magnetics-InductorDesign](https://github.com/FulongLi/Magnetics-InductorDesign)  
+- [Magnetics-PCBRogowskiCoil](https://github.com/FulongLi/Magnetics-PCBRogowskiCoil)  
+- [Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer)  
+- [magnetchallenge](https://github.com/FulongLi/magnetchallenge) — MagNet Challenge 2023  
+
+### Data, ML & curated lists
+- [transistordatabase](https://github.com/FulongLi/transistordatabase) — managing and evaluating power transistors  
+- [Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN)  
+- [materialdatabase](https://github.com/FulongLi/materialdatabase) — ferrite core materials (datasheets and measurements)  
+- [awesome-open-source-power-electronics](https://github.com/FulongLi/awesome-open-source-power-electronics) — open-source power-electronics tools  
+- [PowerVision](https://github.com/FulongLi/PowerVision)  
+
+### Fiction & other
+- [AncientCivilizations](https://github.com/FulongLi/AncientCivilizations)  
+- [AnotherWorld](https://github.com/FulongLi/AnotherWorld)  
+
 ## Useful Tools for Power Electronics Engineers
 
 ### Power electronics
