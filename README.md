@@ -42,10 +42,8 @@ Public projects on [github.com/FulongLi](https://github.com/FulongLi) ([all repo
 - [Magnetics-InductorDesign](https://github.com/FulongLi/Magnetics-InductorDesign)  
 - [Magnetics-PCBRogowskiCoil](https://github.com/FulongLi/Magnetics-PCBRogowskiCoil)  
 - [Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer)  
-- [magnetchallenge](https://github.com/FulongLi/magnetchallenge) — MagNet Challenge 2023  
 
 ### Data, ML & curated lists
-- [transistordatabase](https://github.com/FulongLi/transistordatabase) — managing and evaluating power transistors  
 - [Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN)  
 
 
