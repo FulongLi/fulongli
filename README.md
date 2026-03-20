@@ -14,8 +14,6 @@ Python / MATLAB / Simulink | PyTorch / scikit-learn / DEAP / PyMoo | LaTeX / Ove
 
 ## Useful Tools for Power Electronics Engineers
 
-Open-source projects from the [Chair of Power Electronics and Electrical Drives (LEA), Paderborn University](https://github.com/upb-lea) — see their [full list](https://github.com/upb-lea) and [department site](https://ei.uni-paderborn.de/lea/).
-
 ### Power electronics
 - [Inkscape_electric_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) — electrical drawing symbols for Inkscape  
 - [awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) — curated list of open-source power-electronics tools  
@@ -24,8 +22,6 @@ Open-source projects from the [Chair of Power Electronics and Electrical Drives 
 - [Power Electronics Capacitor Selection Toolbox (PE-CST)](https://github.com/upb-lea/capacitor_selection_toolbox) — foil capacitor selection  
 - [Heat Sink Computation Toolbox (HCT)](https://github.com/upb-lea/HCT_heat_sink_computation_toolbox) — fan-cooled heat sink sizing and optimization  
 - [MagNet Hub](https://github.com/upb-lea/mag-net-hub) — certified models from the MagNet Challenge  
-- [LEA Control Board (LCB)](https://github.com/upb-lea/LCB-CCB-01_LEA_Control_Board) — MCU platform for hardware prototypes  
-- [Transistor database (TDB)](https://github.com/upb-lea/transistordatabase) — power transistor data and evaluation  
 
 ### Helper tools (CAD, simulation, plotting)
 - [pyGeckoCircuits2](https://github.com/upb-lea/pygeckocircuits2) — Python wrapper for GeckoCIRCUITS  
