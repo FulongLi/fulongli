@@ -40,9 +40,3 @@ Open-source projects from the [Chair of Power Electronics and Electrical Drives 
 - [ElectricGrid.jl](https://github.com/upb-lea/ElectricGrid.jl) — time-domain grid modeling with a focus on converter control  
 - [gem-control](https://github.com/upb-lea/gem-control) — linear / field-oriented controllers for GEM  
 - [meta_RL_PMSM](https://github.com/upb-lea/meta_RL_PMSM) — meta RL for PMSM current control across power classes  
-
-### Control, optimization, and misc
-- [control-block-diagram](https://github.com/upb-lea/control-block-diagram) — control block diagrams in Python  
-- [DESSCA](https://github.com/upb-lea/DESSCA) — density estimation for state-space coverage  
-- [PSOAS](https://github.com/upb-lea/PSOAS) — particle swarm optimization with surrogates  
-- [Thesis LaTeX Template](https://github.com/upb-lea/thesis_latex_template) — report/thesis template  
