@@ -17,13 +17,11 @@ Python / MATLAB / Simulink | PyTorch / scikit-learn / DEAP / PyMoo | LaTeX / Ove
 Public projects on [github.com/FulongLi](https://github.com/FulongLi) ([all repositories](https://github.com/FulongLi?tab=repositories)).
 
 ### Profile & sites
-- [fulongli](https://github.com/FulongLi/fulongli) — this profile README  
 - [fulongli.github.io](https://github.com/FulongLi/fulongli.github.io)  
 - [SCPowerLabs](https://github.com/FulongLi/SCPowerLabs)  
 - [spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)  
 - [spiritconnectpowerlabs.github.io](https://github.com/FulongLi/spiritconnectpowerlabs.github.io)  
 - [spiritconnectsciandtec.github.io](https://github.com/FulongLi/spiritconnectsciandtec.github.io)  
-- [hydejack](https://github.com/FulongLi/hydejack) — Jekyll theme (fork)
 
 ### Power electronics, converters & systems
 - [PEA](https://github.com/FulongLi/PEA)  
@@ -49,9 +47,7 @@ Public projects on [github.com/FulongLi](https://github.com/FulongLi) ([all repo
 ### Data, ML & curated lists
 - [transistordatabase](https://github.com/FulongLi/transistordatabase) — managing and evaluating power transistors  
 - [Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN)  
-- [materialdatabase](https://github.com/FulongLi/materialdatabase) — ferrite core materials (datasheets and measurements)  
-- [awesome-open-source-power-electronics](https://github.com/FulongLi/awesome-open-source-power-electronics) — open-source power-electronics tools  
-- [PowerVision](https://github.com/FulongLi/PowerVision)  
+
 
 ### Fiction & other
 - [AncientCivilizations](https://github.com/FulongLi/AncientCivilizations)  
