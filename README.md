@@ -1,4 +1,4 @@
-# Fulong Li
+# Fulong Li, Ph.D.
 
 **Power Electronics | AI-assisted Design | Founder @ Spirit Connect Ltd**  
 Cardiff, United Kingdom
