@@ -128,7 +128,3 @@ A curated collection of open-source tools relevant to power electronics research
 | [meta_RL_PMSM](https://github.com/upb-lea/meta_RL_PMSM) | Meta RL for PMSM current control across power classes |
 
 ---
-
-<div align="center">
-<sub>Inspired by <a href="https://nav.meding.site/#/">周医生的科研馆</a> navigation layout</sub>
-</div>
