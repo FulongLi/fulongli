@@ -1,71 +1,134 @@
+<div align="center">
+
 # Fulong Li, Ph.D.
 
-**Power Electronics | AI-assisted Design | Founder @ Spirit Connect Ltd**  
-Cardiff 
+**Power Electronics | AI-assisted Design | Founder @ Spirit Connect Ltd**
 
-## Links
-[Spirit Connect - Power Labs](https://fulongli.github.io/SCPowerLabs/) | [GitHub](https://github.com/FulongLi) | [Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
+Cardiff, UK
 
-## My repositories
+[![GitHub](https://img.shields.io/badge/GitHub-FulongLi-181717?logo=github)](https://github.com/FulongLi)
+[![Power Labs](https://img.shields.io/badge/SC_Power_Labs-Visit-blue?logo=googlechrome&logoColor=white)](https://fulongli.github.io/SCPowerLabs/)
+[![Writing](https://img.shields.io/badge/Writing-Blog-green?logo=readthedocs&logoColor=white)](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
 
-Public projects on [github.com/FulongLi](https://github.com/FulongLi) ([all repositories](https://github.com/FulongLi?tab=repositories)).
+</div>
 
-### Profile & sites
-- [fulongli.github.io](https://github.com/FulongLi/fulongli.github.io)  
-- [SCPowerLabs](https://github.com/FulongLi/SCPowerLabs)  
-- [spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)  
-- [spiritconnectpowerlabs.github.io](https://github.com/FulongLi/spiritconnectpowerlabs.github.io)  
-- [spiritconnectsciandtec.github.io](https://github.com/FulongLi/spiritconnectsciandtec.github.io)  
+---
 
-### Power electronics, converters & systems
-- [PEA](https://github.com/FulongLi/PEA)  
-- [SolidStateTransformer](https://github.com/FulongLi/SolidStateTransformer)  
-- [PEDeviceLib](https://github.com/FulongLi/PEDeviceLib)  
-- [PowerElectronicsDeviceLibrary](https://github.com/FulongLi/PowerElectronicsDeviceLibrary)  
-- [IsolatedCoverters](https://github.com/FulongLi/IsolatedCoverters)  
-- [NonisolatedCoverters](https://github.com/FulongLi/NonisolatedCoverters)  
-- [BuckConverterOptimisation](https://github.com/FulongLi/BuckConverterOptimisation)  
-- [MicrogridEnergyManagementSystermDesign](https://github.com/FulongLi/MicrogridEnergyManagementSystermDesign)  
-- [DCMicrogridTestBench](https://github.com/FulongLi/DCMicrogridTestBench)  
-- [WirelessPowerTransferTestBench](https://github.com/FulongLi/WirelessPowerTransferTestBench)  
-- [HeatSinkOptimisation](https://github.com/FulongLi/HeatSinkOptimisation) — heat sink optimisation project  
-- [DoublePulseTestAutomation](https://github.com/FulongLi/DoublePulseTestAutomation)  
-- [ThermalImpedacenMeasurementAutomation](https://github.com/FulongLi/ThermalImpedacenMeasurementAutomation)  
+## Navigation
 
-### Magnetics & sensing
-- [Magnetics-InductorDesign](https://github.com/FulongLi/Magnetics-InductorDesign)  
-- [Magnetics-PCBRogowskiCoil](https://github.com/FulongLi/Magnetics-PCBRogowskiCoil)  
-- [Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer)  
+> [Profile & Sites](#-profile--sites) · [Power Electronics & Converters](#-power-electronics-converters--systems) · [Magnetics & Sensing](#-magnetics--sensing) · [Data & ML](#-data-ml--curated-lists) · [Fiction & Other](#-fiction--other) · [PE Tools](#-power-electronics-tools) · [CAD / Simulation / Plotting](#-cad--simulation--plotting) · [RL / Motor / Grid](#-reinforcement-learning-motor--grid-simulation)
 
-### Data, ML & curated lists
-- [Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN)  
+---
 
+## My Repositories
 
-### Fiction & other
-- [AncientCivilizations](https://github.com/FulongLi/AncientCivilizations)  
-- [AnotherWorld](https://github.com/FulongLi/AnotherWorld)  
+Public projects on [github.com/FulongLi](https://github.com/FulongLi) &mdash; [view all repos](https://github.com/FulongLi?tab=repositories)
+
+---
+
+### ▸ Profile & Sites
+
+| Project | Description |
+|:--------|:------------|
+| [fulongli.github.io](https://github.com/FulongLi/fulongli.github.io) | Personal GitHub Pages site |
+| [SCPowerLabs](https://github.com/FulongLi/SCPowerLabs) | Spirit Connect — Power Labs homepage |
+| [spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io) | Spirit Connect landing page |
+| [spiritconnectpowerlabs.github.io](https://github.com/FulongLi/spiritconnectpowerlabs.github.io) | Power Labs documentation site |
+| [spiritconnectsciandtec.github.io](https://github.com/FulongLi/spiritconnectsciandtec.github.io) | Science & Technology blog / writing |
+
+---
+
+### ▸ Power Electronics, Converters & Systems
+
+| Project | Description |
+|:--------|:------------|
+| [PEA](https://github.com/FulongLi/PEA) | Power Electronics Analysis toolkit |
+| [SolidStateTransformer](https://github.com/FulongLi/SolidStateTransformer) | Solid-state transformer modeling and design |
+| [PEDeviceLib](https://github.com/FulongLi/PEDeviceLib) | Power electronics device library |
+| [PowerElectronicsDeviceLibrary](https://github.com/FulongLi/PowerElectronicsDeviceLibrary) | Extended PE device reference library |
+| [IsolatedCoverters](https://github.com/FulongLi/IsolatedCoverters) | Isolated converter topologies |
+| [NonisolatedCoverters](https://github.com/FulongLi/NonisolatedCoverters) | Non-isolated converter topologies |
+| [BuckConverterOptimisation](https://github.com/FulongLi/BuckConverterOptimisation) | Multi-objective buck converter optimisation |
+| [MicrogridEnergyManagementSystermDesign](https://github.com/FulongLi/MicrogridEnergyManagementSystermDesign) | Microgrid energy management system design |
+| [DCMicrogridTestBench](https://github.com/FulongLi/DCMicrogridTestBench) | DC microgrid hardware test bench |
+| [WirelessPowerTransferTestBench](https://github.com/FulongLi/WirelessPowerTransferTestBench) | Wireless power transfer test bench |
+| [HeatSinkOptimisation](https://github.com/FulongLi/HeatSinkOptimisation) | Heat-sink thermal optimisation |
+| [DoublePulseTestAutomation](https://github.com/FulongLi/DoublePulseTestAutomation) | Automated double-pulse switching test |
+| [ThermalImpedacenMeasurementAutomation](https://github.com/FulongLi/ThermalImpedacenMeasurementAutomation) | Automated thermal impedance measurement |
+
+---
+
+### ▸ Magnetics & Sensing
+
+| Project | Description |
+|:--------|:------------|
+| [Magnetics-InductorDesign](https://github.com/FulongLi/Magnetics-InductorDesign) | Inductor design and optimisation |
+| [Magnetics-PCBRogowskiCoil](https://github.com/FulongLi/Magnetics-PCBRogowskiCoil) | PCB Rogowski coil current sensor |
+| [Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer) | PCB current-transformer transducer |
+
+---
+
+### ▸ Data, ML & Curated Lists
+
+| Project | Description |
+|:--------|:------------|
+| [Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN) | ANN-based MOSFET parameter modeling and selection |
+
+---
+
+### ▸ Fiction & Other
+
+| Project | Description |
+|:--------|:------------|
+| [AncientCivilizations](https://github.com/FulongLi/AncientCivilizations) | Creative writing — ancient civilizations worldbuilding |
+| [AnotherWorld](https://github.com/FulongLi/AnotherWorld) | Creative writing — another-world fiction |
+
+---
 
 ## Useful Tools for Power Electronics Engineers
 
-### Power electronics
-- [Inkscape_electric_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) — electrical drawing symbols for Inkscape  
-- [awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) — curated list of open-source power-electronics tools  
-- [FEM Magnetics Toolbox (FEMMT)](https://github.com/upb-lea/FEM_Magnetics_Toolbox) — FEM for magnetic components  
-- [Material Database](https://github.com/upb-lea/materialdatabase) — ferrite core materials (datasheets and measurements)  
-- [Power Electronics Capacitor Selection Toolbox (PE-CST)](https://github.com/upb-lea/capacitor_selection_toolbox) — foil capacitor selection  
-- [Heat Sink Computation Toolbox (HCT)](https://github.com/upb-lea/HCT_heat_sink_computation_toolbox) — fan-cooled heat sink sizing and optimization  
-- [MagNet Hub](https://github.com/upb-lea/mag-net-hub) — certified models from the MagNet Challenge  
+A curated collection of open-source tools relevant to power electronics research and design.
 
-### Helper tools (CAD, simulation, plotting)
-- [pyGeckoCircuits2](https://github.com/upb-lea/pygeckocircuits2) — Python wrapper for GeckoCIRCUITS  
-- [KiClearance](https://github.com/upb-lea/KiClearance) — KiCad clearance rules generator  
-- [LEA KiCad Library](https://github.com/upb-lea/LEA_KiCad_Library) — reviewed symbols and footprints (with Mouser part numbers)  
-- [pySignalScope](https://github.com/upb-lea/pySignalScope) — simulation and measurement plotting  
+---
 
-### Reinforcement learning, motor, and grid simulation
-- [Reinforcement Learning Course Materials](https://github.com/upb-lea/reinforcement_learning_course_materials) — lectures, tutorials, solutions  
-- [Gym Electric Motor (GEM)](https://github.com/upb-lea/gym-electric-motor) — OpenAI Gym environment for electric motors  
-- [OpenModelica Microgrid Gym (OMG)](https://github.com/upb-lea/openmodelica-microgrid-gym) — microgrid Gym environment  
-- [ElectricGrid.jl](https://github.com/upb-lea/ElectricGrid.jl) — time-domain grid modeling with a focus on converter control  
-- [gem-control](https://github.com/upb-lea/gem-control) — linear / field-oriented controllers for GEM  
-- [meta_RL_PMSM](https://github.com/upb-lea/meta_RL_PMSM) — meta RL for PMSM current control across power classes  
+### ▸ Power Electronics Tools
+
+| Tool | Description |
+|:-----|:------------|
+| [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) | Electrical drawing symbols for Inkscape |
+| [awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) | Curated list of open-source PE tools |
+| [FEM Magnetics Toolbox (FEMMT)](https://github.com/upb-lea/FEM_Magnetics_Toolbox) | FEM simulation for magnetic components |
+| [Material Database](https://github.com/upb-lea/materialdatabase) | Ferrite core material datasheets & measurements |
+| [PE Capacitor Selection Toolbox](https://github.com/upb-lea/capacitor_selection_toolbox) | Foil capacitor selection and comparison |
+| [Heat Sink Computation Toolbox](https://github.com/upb-lea/HCT_heat_sink_computation_toolbox) | Fan-cooled heat-sink sizing & optimisation |
+| [MagNet Hub](https://github.com/upb-lea/mag-net-hub) | Certified models from the MagNet Challenge |
+
+---
+
+### ▸ CAD / Simulation / Plotting
+
+| Tool | Description |
+|:-----|:------------|
+| [pyGeckoCircuits2](https://github.com/upb-lea/pygeckocircuits2) | Python wrapper for GeckoCIRCUITS |
+| [KiClearance](https://github.com/upb-lea/KiClearance) | KiCad clearance rules generator |
+| [LEA KiCad Library](https://github.com/upb-lea/LEA_KiCad_Library) | Reviewed symbols & footprints with Mouser part numbers |
+| [pySignalScope](https://github.com/upb-lea/pySignalScope) | Simulation & measurement plotting |
+
+---
+
+### ▸ Reinforcement Learning, Motor & Grid Simulation
+
+| Tool | Description |
+|:-----|:------------|
+| [RL Course Materials](https://github.com/upb-lea/reinforcement_learning_course_materials) | Lectures, tutorials & solutions for RL |
+| [Gym Electric Motor (GEM)](https://github.com/upb-lea/gym-electric-motor) | OpenAI Gym environment for electric motors |
+| [OpenModelica Microgrid Gym](https://github.com/upb-lea/openmodelica-microgrid-gym) | Microgrid Gym environment |
+| [ElectricGrid.jl](https://github.com/upb-lea/ElectricGrid.jl) | Time-domain grid modeling with converter control |
+| [gem-control](https://github.com/upb-lea/gem-control) | Linear / field-oriented controllers for GEM |
+| [meta_RL_PMSM](https://github.com/upb-lea/meta_RL_PMSM) | Meta RL for PMSM current control across power classes |
+
+---
+
+<div align="center">
+<sub>Inspired by <a href="https://nav.meding.site/#/">周医生的科研馆</a> navigation layout</sub>
+</div>
