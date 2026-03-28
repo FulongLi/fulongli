@@ -1,6 +1,6 @@
 # Hi, I'm Fulong 👋
 
-📍 **Cardiff, UK** | ⚡ **Power Electronics Researcher** | 🤖 **AI-assisted Design** | 🚀 **Founder @ Spirit Connect Ltd**
+📍 **Cardiff, UK** | ⚡ **Power Electronics** | 🎓 **Ph.D.** | 🤖 **AI-assisted Design** | 🚀 **Founder @ Spirit Connect Ltd**
 
 `Power Electronics` `Converter Design` `Magnetics` `MATLAB/Simulink` `Python` `Machine Learning` `KiCad` `PLECS` `LTspice`
 
