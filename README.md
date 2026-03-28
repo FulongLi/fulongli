@@ -6,7 +6,7 @@
 
 > Bridging power electronics and AI — from topology optimisation to automated testing. Building open tools for the next generation of PE engineers.
 
-🔬 **[SC Power Labs](https://fulongli.github.io/SCPowerLabs/)** — Spirit Connect Power Labs homepage
+⚡ **[SC Power Labs](https://fulongli.github.io/SCPowerLabs/)** — Spirit Connect Power Labs homepage
 ✍️ **[Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)** — Fiction worldbuilding site
 
 ## Current Projects
