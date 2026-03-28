@@ -14,7 +14,7 @@
 
 > Energy helps humanity enter a Type II civilisation.
 
-⚡ **[SC Power Labs](https://fulongli.github.io/SpriConPowerLabs/)** — Spirit Connect Power Labs homepage
+⚡ **[SpriCon Power Labs](https://fulongli.github.io/SpriConPowerLabs/)** — Spirit Connect Power Labs homepage
 ✍️ **[Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)** — Fiction worldbuilding site
 
 ## Current Projects
