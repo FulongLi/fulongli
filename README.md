@@ -2,7 +2,15 @@
 
 📍 **Cardiff, UK** | ⚡ **Power Electronics** | 🎓 **Ph.D.** | 🤖 **AI-assisted Design** | 🚀 **Founder @ Spirit Connect Ltd**
 
-`Power Electronics` `Converter Design` `Magnetics` `MATLAB/Simulink` `Python` `Machine Learning` `KiCad` `PLECS` `LTspice`
+![Power Electronics](https://img.shields.io/badge/Power_Electronics-FF6F00?style=flat-square&logoColor=white)
+![Converter Design](https://img.shields.io/badge/Converter_Design-E65100?style=flat-square&logoColor=white)
+![Magnetics](https://img.shields.io/badge/Magnetics-4A148C?style=flat-square&logoColor=white)
+![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%2FSimulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![PLECS](https://img.shields.io/badge/PLECS-00796B?style=flat-square&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white)
 
 > Bridging power electronics and AI — from topology optimisation to automated testing. Building open tools for the next generation of PE engineers.
 
