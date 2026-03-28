@@ -91,4 +91,4 @@ A curated collection of open-source tools I find valuable for power electronics 
 
 ## Connect
 
-[GitHub](https://github.com/FulongLi) · [SC Power Labs](https://fulongli.github.io/SpriConPowerLabs/) · [Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
+[GitHub](https://github.com/FulongLi) · [SpriCon Power Labs](https://fulongli.github.io/SpriConPowerLabs/) · [Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
