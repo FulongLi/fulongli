@@ -12,9 +12,9 @@
 ![PLECS](https://img.shields.io/badge/PLECS-00796B?style=flat-square&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white)
 
-> Bridging power electronics and AI — from topology optimisation to automated testing. Building open tools for the next generation of PE engineers.
+> Energy helps humanity enter a Type II civilisation.
 
-⚡ **[SC Power Labs](https://fulongli.github.io/SCPowerLabs/)** — Spirit Connect Power Labs homepage
+⚡ **[SC Power Labs](https://fulongli.github.io/SpriConPowerLabs/)** — Spirit Connect Power Labs homepage
 ✍️ **[Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)** — Fiction worldbuilding site
 
 ## Current Projects
@@ -22,7 +22,7 @@
 ### Profile & Sites
 
 * 🏠 **[fulongli.github.io](https://github.com/FulongLi/fulongli.github.io)** - Personal GitHub Pages site
-* ⚡ **[SCPowerLabs](https://github.com/FulongLi/SCPowerLabs)** - Spirit Connect Power Labs homepage
+* ⚡ **[SpriConPowerLabs](https://github.com/FulongLi/SpriConPowerLabs)** - Spirit Connect Power Labs site
 * ✍️ **[spiritconnectsciandtec.github.io](https://github.com/FulongLi/spiritconnectsciandtec.github.io)** - Fiction worldbuilding site
 
 ### Power Electronics, Converters & Systems
@@ -50,6 +50,9 @@
 ### Data, ML & Curated Lists
 
 * 🤖 **[Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN)** - ANN-based MOSFET parameter modeling and selection
+* 👁️ **[PowerVision](https://github.com/FulongLi/PowerVision)** - Vision-based power electronics analysis (fork of dc2326)
+* 🧪 **[magnetchallenge](https://github.com/FulongLi/magnetchallenge)** - MagNet Challenge 2023 (fork)
+* 🗄️ **[transistordatabase](https://github.com/FulongLi/transistordatabase)** - Unified power transistor management tool (fork of upb-lea)
 
 ### Fiction & Other
 
@@ -88,4 +91,4 @@ A curated collection of open-source tools I find valuable for power electronics 
 
 ## Connect
 
-[GitHub](https://github.com/FulongLi) · [SC Power Labs](https://fulongli.github.io/SCPowerLabs/) · [Blog](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
+[GitHub](https://github.com/FulongLi) · [SC Power Labs](https://fulongli.github.io/SpriConPowerLabs/) · [Writing](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
