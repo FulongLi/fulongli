@@ -23,7 +23,6 @@
 
 * 🏠 **[fulongli.github.io](https://github.com/FulongLi/fulongli.github.io)** - Personal GitHub Pages site
 * ⚡ **[SCPowerLabs](https://github.com/FulongLi/SCPowerLabs)** - Spirit Connect Power Labs homepage
-* 🌐 **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** - Spirit Connect landing page
 * ✍️ **[spiritconnectsciandtec.github.io](https://github.com/FulongLi/spiritconnectsciandtec.github.io)** - Fiction worldbuilding site
 
 ### Power Electronics, Converters & Systems
