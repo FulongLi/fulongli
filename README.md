@@ -59,6 +59,7 @@
 
 * 🏛️ **[AncientCivilizations](https://github.com/FulongLi/AncientCivilizations)** - Creative writing — ancient civilizations worldbuilding
 * 🌌 **[AnotherWorld](https://github.com/FulongLi/AnotherWorld)** - Creative writing — another-world fiction
+* 🎨 **[anotherworldart](https://github.com/FulongLi/anotherworldart)** - AI art and concept design for the in-fiction AnotherWorld game
 
 ## Useful Tools for PE Engineers
 
