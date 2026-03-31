@@ -16,7 +16,7 @@
 
 ⚡ **[SpriCon Power Labs](https://fulongli.github.io/SpriConPowerLabs/)** — Spirit Connect Power Labs homepage
 ✍️ **[Writing](https://fulongli.github.io/SpiritConnectTec.github.io/)** — Fiction worldbuilding site
-🎨 **[AIart](https://github.com/FulongLi/anotherworldart)** - AI art and concept design for the in-fiction AnotherWorld game
+🎨 **[AIart](https://fulongli.github.io/AnotherWorldArt/)** - AI art and concept design for the in-fiction AnotherWorld game
 ## Current Projects
 
 ### Profile & Sites
