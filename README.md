@@ -21,7 +21,7 @@
 
 ### Profile & Sites
 
-* 🏠 **[fulongli.github.io](fulongli.github.io)** - Personal GitHub Pages site
+* 🏠 **[fulongli.github.io](https://fulongli.github.io/)** - Personal GitHub Pages site
 * 🌐 **[spiritconnect.github.io](https://spiritconnect.co.uk/)** - Spirit Connect Power Labs site
 * ✍️ **[SpiritConnectTec.github.io](https://fulongli.github.io/SpiritConnectTec.github.io/)** - Fiction worldbuilding site
 
