@@ -21,9 +21,9 @@
 
 ### Profile & Sites
 
-* 🏠 **[fulongli.github.io](https://github.com/FulongLi/fulongli.github.io)** - Personal GitHub Pages site
-* 🌐 **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** - Spirit Connect Power Labs site
-* ✍️ **[SpiritConnectTec.github.io](https://github.com/FulongLi/SpiritConnectTec.github.io)** - Fiction worldbuilding site
+* 🏠 **[fulongli.github.io](fulongli.github.io)** - Personal GitHub Pages site
+* 🌐 **[spiritconnect.github.io](https://spiritconnect.co.uk/)** - Spirit Connect Power Labs site
+* ✍️ **[SpiritConnectTec.github.io](https://fulongli.github.io/SpiritConnectTec.github.io/)** - Fiction worldbuilding site
 
 ### Power Electronics, Converters & Systems
 
