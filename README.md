@@ -14,7 +14,7 @@
 
 > Energy helps humanity enter a Type II civilisation.
 
-⚡ **[SpriCon Power Labs](https://fulongli.github.io/SpriConPowerLabs/)** — Spirit Connect Power Labs homepage
+⚡ **[Spirit Connect Power Labs](https://spiritconnect.co.uk/)** — Spirit Connect Power Labs homepage
 ✍️ **[Writing](https://fulongli.github.io/SpiritConnectTec.github.io/)** — Fiction worldbuilding site
 🎨 **[AIart](https://fulongli.github.io/AnotherWorldArt/)** - AI art and concept design for the in-fiction AnotherWorld game
 ## Current Projects
@@ -22,8 +22,7 @@
 ### Profile & Sites
 
 * 🏠 **[fulongli.github.io](https://github.com/FulongLi/fulongli.github.io)** - Personal GitHub Pages site
-* ⚡ **[SpriConPowerLabs](https://github.com/FulongLi/SpriConPowerLabs)** - Spirit Connect Power Labs site
-* 🌐 **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** - Spirit Connect landing page
+* 🌐 **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** - Spirit Connect Power Labs site
 * ✍️ **[SpiritConnectTec.github.io](https://github.com/FulongLi/SpiritConnectTec.github.io)** - Fiction worldbuilding site
 
 ### Power Electronics, Converters & Systems
