@@ -21,44 +21,58 @@
 
 ### Profile & Sites
 
-* 🏠 **[fulongli.github.io](https://fulongli.github.io/)** - Personal GitHub Pages site
-* 🌐 **[spiritconnect.github.io](https://spiritconnect.co.uk/)** - Spirit Connect Power Labs site
-* ✍️ **[SpiritConnectTec.github.io](https://fulongli.github.io/SpiritConnectTec.github.io/)** - Fiction worldbuilding site
+* 🏠 **[fulongli.github.io](https://fulongli.github.io/)** — Personal academic & professional site (Jekyll)
+* ⚡ **[SpriConPowerLabs](https://github.com/FulongLi/SpriConPowerLabs)** — [Spirit Connect Power Labs](https://fulongli.github.io/SpriConPowerLabs/) public site
+* 🌐 **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** — Spirit Connect Power Labs site ([spiritconnect.co.uk](https://spiritconnect.co.uk/))
+* 🔬 **[PXT](https://github.com/FulongLi/PXT)** — [PanXin Technology](https://fulongli.github.io/PXT/) — device characterisation, modelling & test platforms
+* ✍️ **[SpiritConnectTec.github.io](https://fulongli.github.io/SpiritConnectTec.github.io/)** — Fiction worldbuilding site
+* 🎨 **[AnotherWorldArt](https://github.com/FulongLi/AnotherWorldArt)** — [AI art & concept design](https://fulongli.github.io/AnotherWorldArt/) for the in-fiction AnotherWorld game
+
+### AI-Assisted Power Electronics
+
+* 🗄️ **[AIPE-power-device-library](https://github.com/FulongLi/AIPE-power-device-library)** — Local web app & YAML/JSON library for power semiconductor devices (AIPE)
+* 🧠 **[spirit-connect-giants-skills-PE](https://github.com/FulongLi/spirit-connect-giants-skills-PE)** — Codex Skills for PE simulation, control-loop debug, LTspice/PLECS/MATLAB, DSP/FPGA
+* 🔧 **[PEA](https://github.com/FulongLi/PEA)** — Power Electronics Analysis toolkit
+* 📄 **[IEEE-Paper-Agent](https://github.com/FulongLi/IEEE-Paper-Agent)** — IEEE paper LaTeX template & agent workflow (in progress)
+
+### Research, Grid & Optimisation
+
+* 🚗 **[EVChargingPlanning](https://github.com/FulongLi/EVChargingPlanning)** — Grid-aware EV charging station siting & sizing (London case study)
+* 🏘️ **[DC-community](https://github.com/FulongLi/DC-community)** — CDM-enabled EMS experiments for residential ring-bus DC microgrid communities
+* 📉 **[converter_opt1](https://github.com/FulongLi/converter_opt1)** — Python reimplementation of Cardiff buck-type VSI multi-objective optimisation (volume vs. loss)
+* 📉 **[BuckConverterOptimisation](https://github.com/FulongLi/BuckConverterOptimisation)** — Multi-objective buck converter optimisation
+* 🔋 **[MicrogridEnergyManagementSystermDesign](https://github.com/FulongLi/MicrogridEnergyManagementSystermDesign)** — Microgrid energy management system design
 
 ### Power Electronics, Converters & Systems
 
-* 🔧 **[PEA](https://github.com/FulongLi/PEA)** - Power Electronics Analysis toolkit
-* 🔌 **[SolidStateTransformer](https://github.com/FulongLi/SolidStateTransformer)** - Solid-state transformer modeling and design
-* 📦 **[PEDeviceLib](https://github.com/FulongLi/PEDeviceLib)** - Power electronics device library
-* 📚 **[PowerElectronicsDeviceLibrary](https://github.com/FulongLi/PowerElectronicsDeviceLibrary)** - Extended PE device reference library
-* 🔀 **[IsolatedCoverters](https://github.com/FulongLi/IsolatedCoverters)** - Isolated converter topologies
-* ➡️ **[NonisolatedCoverters](https://github.com/FulongLi/NonisolatedCoverters)** - Non-isolated converter topologies
-* 📉 **[BuckConverterOptimisation](https://github.com/FulongLi/BuckConverterOptimisation)** - Multi-objective buck converter optimisation
-* 🔋 **[MicrogridEnergyManagementSystermDesign](https://github.com/FulongLi/MicrogridEnergyManagementSystermDesign)** - Microgrid energy management system design
-* 🧪 **[DCMicrogridTestBench](https://github.com/FulongLi/DCMicrogridTestBench)** - DC microgrid hardware test bench
-* 📡 **[WirelessPowerTransferTestBench](https://github.com/FulongLi/WirelessPowerTransferTestBench)** - Wireless power transfer test bench
-* 🌡️ **[HeatSinkOptimisation](https://github.com/FulongLi/HeatSinkOptimisation)** - Heat-sink thermal optimisation
-* ⚡ **[DoublePulseTestAutomation](https://github.com/FulongLi/DoublePulseTestAutomation)** - Automated double-pulse switching test
-* 🌡️ **[ThermalImpedacenMeasurementAutomation](https://github.com/FulongLi/ThermalImpedacenMeasurementAutomation)** - Automated thermal impedance measurement
+* 🔌 **[SolidStateTransformer](https://github.com/FulongLi/SolidStateTransformer)** — Solid-state transformer modeling and design
+* 📦 **[PEDeviceLib](https://github.com/FulongLi/PEDeviceLib)** — Power electronics device library
+* 📚 **[PowerElectronicsDeviceLibrary](https://github.com/FulongLi/PowerElectronicsDeviceLibrary)** — Extended PE device reference library
+* 🔀 **[IsolatedCoverters](https://github.com/FulongLi/IsolatedCoverters)** — Isolated converter topologies
+* ➡️ **[NonisolatedCoverters](https://github.com/FulongLi/NonisolatedCoverters)** — Non-isolated converter topologies
+* 🧪 **[DCMicrogridTestBench](https://github.com/FulongLi/DCMicrogridTestBench)** — DC microgrid hardware test bench
+* 📡 **[WirelessPowerTransferTestBench](https://github.com/FulongLi/WirelessPowerTransferTestBench)** — Wireless power transfer test bench
+* 🌡️ **[HeatSinkOptimisation](https://github.com/FulongLi/HeatSinkOptimisation)** — Heat-sink thermal optimisation
+* ⚡ **[DoublePulseTestAutomation](https://github.com/FulongLi/DoublePulseTestAutomation)** — Automated double-pulse switching test
+* 🌡️ **[ThermalImpedacenMeasurementAutomation](https://github.com/FulongLi/ThermalImpedacenMeasurementAutomation)** — Automated thermal impedance measurement
 
 ### Magnetics & Sensing
 
-* 🧲 **[Magnetics-InductorDesign](https://github.com/FulongLi/Magnetics-InductorDesign)** - Inductor design and optimisation
-* 🌀 **[Magnetics-PCBRogowskiCoil](https://github.com/FulongLi/Magnetics-PCBRogowskiCoil)** - PCB Rogowski coil current sensor
-* 📏 **[Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer)** - PCB current-transformer transducer
+* 🧲 **[Magnetics-InductorDesign](https://github.com/FulongLi/Magnetics-InductorDesign)** — Inductor design and optimisation
+* 🌀 **[Magnetics-PCBRogowskiCoil](https://github.com/FulongLi/Magnetics-PCBRogowskiCoil)** — PCB Rogowski coil current sensor
+* 📏 **[Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer)** — PCB current-transformer transducer
 
-### Data, ML & Curated Lists
+### Data, ML & Forks
 
-* 🤖 **[Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN)** - ANN-based MOSFET parameter modeling and selection
-* 👁️ **[PowerVision](https://github.com/FulongLi/PowerVision)** - Vision-based power electronics analysis (fork of dc2326)
-* 🧪 **[magnetchallenge](https://github.com/FulongLi/magnetchallenge)** - MagNet Challenge 2023 (fork)
-* 🗄️ **[transistordatabase](https://github.com/FulongLi/transistordatabase)** - Unified power transistor management tool (fork of upb-lea)
+* 🤖 **[Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN)** — ANN-based MOSFET parameter modeling and selection
+* 👁️ **[PowerVision](https://github.com/FulongLi/PowerVision)** — Vision-based power electronics analysis (fork)
+* 🗄️ **[transistordatabase](https://github.com/FulongLi/transistordatabase)** — Unified power transistor management tool (fork of upb-lea)
+* 🧪 **[magnetchallenge](https://github.com/FulongLi/magnetchallenge)** — MagNet Challenge 2023 (fork)
 
-### Fiction & Other
+### Fiction & Creative Writing
 
-* 🏛️ **[AncientCivilizations](https://github.com/FulongLi/AncientCivilizations)** - Creative writing — ancient civilizations worldbuilding
-* 🌌 **[AnotherWorld](https://github.com/FulongLi/AnotherWorld)** - Creative writing — another-world fiction
-* 🎨 **[anotherworldart](https://github.com/FulongLi/anotherworldart)** - AI art and concept design for the in-fiction AnotherWorld game
+* 🏛️ **[AncientCivilizations](https://github.com/FulongLi/AncientCivilizations)** — Ancient civilizations worldbuilding
+* 🌌 **[AnotherWorld](https://github.com/FulongLi/AnotherWorld)** — Another-world fiction
 
 ## Useful Tools for PE Engineers
 
@@ -92,4 +106,4 @@ A curated collection of open-source tools I find valuable for power electronics 
 
 ## Connect
 
-[GitHub](https://github.com/FulongLi) · [SpriCon Power Labs](https://fulongli.github.io/SpriConPowerLabs/) · [Writing](https://fulongli.github.io/SpiritConnectTec.github.io/)
+[GitHub](https://github.com/FulongLi) · [Personal site](https://fulongli.github.io/) · [SpriCon Power Labs](https://fulongli.github.io/SpriConPowerLabs/) · [PanXin Technology](https://fulongli.github.io/PXT/) · [Writing](https://fulongli.github.io/SpiritConnectTec.github.io/)
