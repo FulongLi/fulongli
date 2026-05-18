@@ -24,7 +24,6 @@
 * 🏠 **[fulongli.github.io](https://fulongli.github.io/)** — Personal academic & professional site (Jekyll)
 * ⚡ **[SpriConPowerLabs](https://github.com/FulongLi/SpriConPowerLabs)** — [Spirit Connect Power Labs](https://fulongli.github.io/SpriConPowerLabs/) public site
 * 🌐 **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** — Spirit Connect Power Labs site ([spiritconnect.co.uk](https://spiritconnect.co.uk/))
-* 🔬 **[PXT](https://github.com/FulongLi/PXT)** — [PanXin Technology](https://fulongli.github.io/PXT/) — device characterisation, modelling & test platforms
 * ✍️ **[SpiritConnectTec.github.io](https://fulongli.github.io/SpiritConnectTec.github.io/)** — Fiction worldbuilding site
 * 🎨 **[AnotherWorldArt](https://github.com/FulongLi/AnotherWorldArt)** — [AI art & concept design](https://fulongli.github.io/AnotherWorldArt/) for the in-fiction AnotherWorld game
 
