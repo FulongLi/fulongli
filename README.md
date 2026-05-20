@@ -12,7 +12,7 @@
 ![PLECS](https://img.shields.io/badge/PLECS-00796B?style=flat-square&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white)
 
-> Energy helps humanity enter a Type II civilisation.
+> Energy helps humanity enter a Type I civilisation.
 
 ⚡ **[Spirit Connect Power Labs](https://spiritconnect.co.uk/)** — Spirit Connect Power Labs homepage
 ✍️ **[Writing](https://fulongli.github.io/SpiritConnectTec.github.io/)** — Fiction worldbuilding site
