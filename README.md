@@ -14,28 +14,34 @@
 
 > Energy helps humanity enter a Type II civilisation.
 
-⚡ **[SpriCon Power Labs](https://fulongli.github.io/SpriConPowerLabs/)** — Spirit Connect Power Labs homepage
-✍️ **[Writing](https://fulongli.github.io/SpiritConnectTec.github.io/)** — Fiction worldbuilding site
-🎨 **[AIart](https://fulongli.github.io/AnotherWorldArt/)** - AI art and concept design for the in-fiction AnotherWorld game
+⚡ **[Spirit Connect AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/)** — AI-assisted power electronics lab homepage
+✍️ **[Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/)** — Fiction worldbuilding site
+🎨 **[AI Art](https://fulongli.github.io/AnotherWorldArt/)** - AI art and concept design for the in-fiction AnotherWorld game
+
 ## Current Projects
 
 ### Profile & Sites
 
 * 🏠 **[fulongli.github.io](https://github.com/FulongLi/fulongli.github.io)** - Personal GitHub Pages site
-* ⚡ **[SpriConPowerLabs](https://github.com/FulongLi/SpriConPowerLabs)** - Spirit Connect Power Labs site
+* ⚡ **[Spirit-Connect-AIPE-Labs](https://github.com/FulongLi/Spirit-Connect-AIPE-Labs)** - AI-assisted power electronics lab site
 * 🌐 **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** - Spirit Connect landing page
-* ✍️ **[SpiritConnectTec.github.io](https://github.com/FulongLi/SpiritConnectTec.github.io)** - Fiction worldbuilding site
+* ✍️ **[Spirit-Connect-Fantasy](https://github.com/FulongLi/Spirit-Connect-Fantasy)** - Fiction worldbuilding site
+* 🎨 **[AnotherWorldArt](https://github.com/FulongLi/AnotherWorldArt)** - AnotherWorld AI art and concept design
 
 ### Power Electronics, Converters & Systems
 
-* 🔧 **[PEA](https://github.com/FulongLi/PEA)** - Power Electronics Analysis toolkit
+* 📦 **[AIPE-power-device-library](https://github.com/FulongLi/AIPE-power-device-library)** - AI-assisted power device library
 * 🔌 **[SolidStateTransformer](https://github.com/FulongLi/SolidStateTransformer)** - Solid-state transformer modeling and design
-* 📦 **[PEDeviceLib](https://github.com/FulongLi/PEDeviceLib)** - Power electronics device library
+* 🗄️ **[Power-Device-Database](https://github.com/FulongLi/Power-Device-Database)** - Power semiconductor device database
 * 📚 **[PowerElectronicsDeviceLibrary](https://github.com/FulongLi/PowerElectronicsDeviceLibrary)** - Extended PE device reference library
+* 🤖 **[Power-Electronics-Design-Agent](https://github.com/FulongLi/Power-Electronics-Design-Agent)** - AI agent for power electronics design workflows
+* 🧠 **[AI-design-PE](https://github.com/FulongLi/AI-design-PE)** - AI-assisted power electronics design experiments
 * 🔀 **[IsolatedCoverters](https://github.com/FulongLi/IsolatedCoverters)** - Isolated converter topologies
 * ➡️ **[NonisolatedCoverters](https://github.com/FulongLi/NonisolatedCoverters)** - Non-isolated converter topologies
+* 📉 **[converter_opt1](https://github.com/FulongLi/converter_opt1)** - Converter optimisation experiments
 * 📉 **[BuckConverterOptimisation](https://github.com/FulongLi/BuckConverterOptimisation)** - Multi-objective buck converter optimisation
 * 🔋 **[MicrogridEnergyManagementSystermDesign](https://github.com/FulongLi/MicrogridEnergyManagementSystermDesign)** - Microgrid energy management system design
+* 🚗 **[EVChargingPlanning](https://github.com/FulongLi/EVChargingPlanning)** - EV charging planning and optimisation
 * 🧪 **[DCMicrogridTestBench](https://github.com/FulongLi/DCMicrogridTestBench)** - DC microgrid hardware test bench
 * 📡 **[WirelessPowerTransferTestBench](https://github.com/FulongLi/WirelessPowerTransferTestBench)** - Wireless power transfer test bench
 * 🌡️ **[HeatSinkOptimisation](https://github.com/FulongLi/HeatSinkOptimisation)** - Heat-sink thermal optimisation
@@ -45,21 +51,28 @@
 ### Magnetics & Sensing
 
 * 🧲 **[Magnetics-InductorDesign](https://github.com/FulongLi/Magnetics-InductorDesign)** - Inductor design and optimisation
-* 🌀 **[Magnetics-PCBRogowskiCoil](https://github.com/FulongLi/Magnetics-PCBRogowskiCoil)** - PCB Rogowski coil current sensor
+* 🌀 **[PCB-Rogowski-Coil](https://github.com/FulongLi/PCB-Rogowski-Coil)** - PCB Rogowski coil current sensor
 * 📏 **[Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer)** - PCB current-transformer transducer
 
-### Data, ML & Curated Lists
+### Data, AI & Design Tools
 
 * 🤖 **[Transistor-MOSFETLibraryANN](https://github.com/FulongLi/Transistor-MOSFETLibraryANN)** - ANN-based MOSFET parameter modeling and selection
+* 👁️ **[AIDataVision](https://github.com/FulongLi/AIDataVision)** - Data and vision experiments for engineering workflows
 * 👁️ **[PowerVision](https://github.com/FulongLi/PowerVision)** - Vision-based power electronics analysis (fork of dc2326)
+* 📝 **[IEEE-Paper-Agent](https://github.com/FulongLi/IEEE-Paper-Agent)** - Agent workflow for IEEE-style paper writing
+* 🧩 **[spirit-connect-giants-skills-PE](https://github.com/FulongLi/spirit-connect-giants-skills-PE)** - Power electronics skill resources
+* ✅ **[done-app](https://github.com/FulongLi/done-app)** - Productivity app prototype
 * 🧪 **[magnetchallenge](https://github.com/FulongLi/magnetchallenge)** - MagNet Challenge 2023 (fork)
 * 🗄️ **[transistordatabase](https://github.com/FulongLi/transistordatabase)** - Unified power transistor management tool (fork of upb-lea)
+* 📐 **[text-to-cad](https://github.com/FulongLi/text-to-cad)** - Open-source text-to-CAD harness (fork)
 
 ### Fiction & Other
 
 * 🏛️ **[AncientCivilizations](https://github.com/FulongLi/AncientCivilizations)** - Creative writing — ancient civilizations worldbuilding
 * 🌌 **[AnotherWorld](https://github.com/FulongLi/AnotherWorld)** - Creative writing — another-world fiction
-* 🎨 **[anotherworldart](https://github.com/FulongLi/anotherworldart)** - AI art and concept design for the in-fiction AnotherWorld game
+* 🎨 **[AnotherWorldArt](https://github.com/FulongLi/AnotherWorldArt)** - AI art and concept design for the in-fiction AnotherWorld game
+* 🧊 **[Spirit-Connect-3D-Projector](https://github.com/FulongLi/Spirit-Connect-3D-Projector)** - 3D projector concept prototype
+* 🧰 **[PXT](https://github.com/FulongLi/PXT)** - Experimental toolkit / prototype repository
 
 ## Useful Tools for PE Engineers
 
@@ -93,4 +106,4 @@ A curated collection of open-source tools I find valuable for power electronics 
 
 ## Connect
 
-[GitHub](https://github.com/FulongLi) · [SpriCon Power Labs](https://fulongli.github.io/SpriConPowerLabs/) · [Writing](https://fulongli.github.io/SpiritConnectTec.github.io/)
+[GitHub](https://github.com/FulongLi) · [Spirit Connect AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/) · [Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/)
