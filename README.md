@@ -19,11 +19,8 @@
 | Area | Link | Focus |
 | --- | --- | --- |
 | 🌐 Spirit Connect landing page | [Spirit Connect](https://spiritconnect.co.uk/) | Main landing page for Spirit Connect |
-| 🧠 AIPE projects | [Spirit Connect AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/) | Power devices, design tools, and engineering agents |
-| ⚡ Power electronics lab | [Spirit Connect Power Labs](https://spiritconnect.co.uk/) | AI-assisted power electronics research and design |
+| 🧠 AIPE Labs | [Spirit Connect AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/) | Power devices, design tools, and engineering agents |
 | ✍️ Creative writing | [Spirit Connect Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/) | Fiction, worldbuilding, and long-form creative projects |
-| 🎨 Concept art | [AnotherWorldArt](https://fulongli.github.io/AnotherWorldArt/) | AI art and concept design for AnotherWorld |
-| 🧪 Prototype | [PXT](https://fulongli.github.io/PXT/) | PanXin Technology / experimental project page |
 
 ## Current Projects
 
