@@ -16,6 +16,24 @@
 
 ## Spirit Connect
 
+```mermaid
+flowchart LR
+    SC(("Spirit Connect"))
+    AIPE(("AIPE Labs"))
+    FANTASY(("Fantasy"))
+
+    SC --- AIPE
+    SC --- FANTASY
+
+    classDef brand fill:#111827,stroke:#FF6F00,stroke-width:2px,color:#ffffff;
+    classDef lab fill:#FFF7ED,stroke:#FF6F00,stroke-width:2px,color:#111827;
+    classDef story fill:#F5F3FF,stroke:#7C3AED,stroke-width:2px,color:#111827;
+
+    class SC brand;
+    class AIPE lab;
+    class FANTASY story;
+```
+
 * 🌐 **[Spirit Connect](https://spiritconnect.co.uk/)** - Main brand and landing page for my connected research, design, and creative work
   * 🧠 **[AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/)** - AI-assisted power electronics, power devices, design tools, and engineering agents
   * ✍️ **[Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/)** - Fiction, worldbuilding, and long-form creative projects
