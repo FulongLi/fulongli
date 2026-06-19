@@ -14,13 +14,11 @@
 
 > Energy helps humanity enter a Type I civilisation.
 
-## Featured
+## Spirit Connect
 
-| Area | Link | Focus |
-| --- | --- | --- |
-| 🌐 Spirit Connect landing page | [Spirit Connect](https://spiritconnect.co.uk/) | Main landing page for Spirit Connect |
-| 🧠 AIPE Labs | [Spirit Connect AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/) | Power devices, design tools, and engineering agents |
-| ✍️ Creative writing | [Spirit Connect Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/) | Fiction, worldbuilding, and long-form creative projects |
+* 🌐 **[Spirit Connect](https://spiritconnect.co.uk/)** - Main brand and landing page for my connected research, design, and creative work
+  * 🧠 **[AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/)** - AI-assisted power electronics, power devices, design tools, and engineering agents
+  * ✍️ **[Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/)** - Fiction, worldbuilding, and long-form creative projects
 
 ## Current Projects
 
@@ -117,4 +115,4 @@ A curated collection of open-source tools I find valuable for power electronics 
 
 ## Connect
 
-[GitHub](https://github.com/FulongLi) · [Personal Site](https://fulongli.github.io/) · [Spirit Connect Power Labs](https://spiritconnect.co.uk/) · [AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/) · [Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/)
+[GitHub](https://github.com/FulongLi) · [Personal Site](https://fulongli.github.io/) · [Spirit Connect](https://spiritconnect.co.uk/) · [AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/) · [Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/)
