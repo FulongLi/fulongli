@@ -25,9 +25,11 @@ flowchart LR
     SC --- AIPE
     SC --- FANTASY
 
-    classDef brand fill:#111827,stroke:#FF6F00,stroke-width:2px,color:#ffffff;
-    classDef lab fill:#FFF7ED,stroke:#FF6F00,stroke-width:2px,color:#111827;
-    classDef story fill:#F5F3FF,stroke:#7C3AED,stroke-width:2px,color:#111827;
+    linkStyle 0,1 stroke:#2EBCFE,stroke-width:2px;
+
+    classDef brand fill:#0B1220,stroke:#2EBCFE,stroke-width:2px,color:#F0F6FF;
+    classDef lab fill:#EAF8FF,stroke:#2EBCFE,stroke-width:2px,color:#0B1220;
+    classDef story fill:#EAF8FF,stroke:#1C7198,stroke-width:2px,color:#0B1220;
 
     class SC brand;
     class AIPE lab;
