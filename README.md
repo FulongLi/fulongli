@@ -16,41 +16,23 @@
 
 ## Spirit Connect
 
-<table>
-  <tr>
-    <td rowspan="2" align="center" width="230">
-      <a href="https://spiritconnect.co.uk/">
-        <img src="https://spiritconnect.co.uk/assets/spirit-connect-logo.png" alt="Spirit Connect logo" width="92"/>
-      </a>
-      <br/>
-      <strong><a href="https://spiritconnect.co.uk/">Spirit Connect</a></strong>
-      <br/>
-      <sub>Main brand</sub>
-    </td>
-    <td align="center" width="90">━━━▶</td>
-    <td align="center" width="230">
-      <a href="https://fulongli.github.io/Spirit-Connect-AIPE-Labs/">
-        <img src="https://fulongli.github.io/Spirit-Connect-AIPE-Labs/images/general/logo_192.png" alt="AIPE Labs logo" width="76"/>
-      </a>
-      <br/>
-      <strong><a href="https://fulongli.github.io/Spirit-Connect-AIPE-Labs/">AIPE Labs</a></strong>
-      <br/>
-      <sub>Power electronics + AI agents</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">━━━▶</td>
-    <td align="center">
-      <a href="https://fulongli.github.io/Spirit-Connect-Fantasy/">
-        <img src="https://fulongli.github.io/Spirit-Connect-Fantasy/images/general/logo_svg.svg" alt="Fantasy logo" width="76"/>
-      </a>
-      <br/>
-      <strong><a href="https://fulongli.github.io/Spirit-Connect-Fantasy/">Fantasy</a></strong>
-      <br/>
-      <sub>Fiction + worldbuilding</sub>
-    </td>
-  </tr>
-</table>
+```mermaid
+flowchart LR
+    SC(("Spirit Connect"))
+    AIPE(("AIPE Labs"))
+    FANTASY(("Fantasy"))
+
+    SC --- AIPE
+    SC --- FANTASY
+
+    classDef brand fill:#111827,stroke:#FF6F00,stroke-width:2px,color:#ffffff;
+    classDef lab fill:#FFF7ED,stroke:#FF6F00,stroke-width:2px,color:#111827;
+    classDef story fill:#F5F3FF,stroke:#7C3AED,stroke-width:2px,color:#111827;
+
+    class SC brand;
+    class AIPE lab;
+    class FANTASY story;
+```
 
 * 🌐 **[Spirit Connect](https://spiritconnect.co.uk/)** - Main brand and landing page for my connected research, design, and creative work
   * 🧠 **[AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/)** - AI-assisted power electronics, power devices, design tools, and engineering agents
