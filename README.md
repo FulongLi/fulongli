@@ -27,9 +27,9 @@ flowchart LR
 
     linkStyle 0,1 stroke:#2EBCFE,stroke-width:2px;
 
-    classDef brand fill:#2EBCFE,stroke:#1C7198,stroke-width:2px,color:#ffffff;
-    classDef lab fill:#2EBCFE,stroke:#1C7198,stroke-width:2px,color:#ffffff;
-    classDef story fill:#1C7198,stroke:#2EBCFE,stroke-width:2px,color:#ffffff;
+    classDef brand fill:#2EBCFE,stroke:#2EBCFE,stroke-width:2px,color:#ffffff;
+    classDef lab fill:#2EBCFE,stroke:#2EBCFE,stroke-width:2px,color:#ffffff;
+    classDef story fill:#1C7198,stroke:#1C7198,stroke-width:2px,color:#ffffff;
 
     class SC brand;
     class AIPE lab;
