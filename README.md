@@ -21,24 +21,29 @@ flowchart LR
     SC(("Spirit Connect"))
     AIPE(("AIPE Labs"))
     FANTASY(("Fantasy"))
+    ACADEMY(("Academy"))
 
     SC --- AIPE
     SC --- FANTASY
+    SC --- ACADEMY
 
-    linkStyle 0,1 stroke:#2EBCFE,stroke-width:2px;
+    linkStyle 0,1,2 stroke:#2EBCFE,stroke-width:2px;
 
     classDef brand fill:#2EBCFE,stroke:#2EBCFE,stroke-width:2px,color:#ffffff;
     classDef lab fill:#2EBCFE,stroke:#2EBCFE,stroke-width:2px,color:#ffffff;
     classDef story fill:#1C7198,stroke:#1C7198,stroke-width:2px,color:#ffffff;
+    classDef academy fill:#2EBCFE,stroke:#2EBCFE,stroke-width:2px,color:#ffffff;
 
     class SC brand;
     class AIPE lab;
     class FANTASY story;
+    class ACADEMY academy;
 ```
 
 * 🌐 **[Spirit Connect](https://spiritconnect.co.uk/)** - Main brand and landing page for my connected research, design, and creative work
   * 🧠 **[AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/)** - AI-assisted power electronics, power devices, design tools, and engineering agents
   * ✍️ **[Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/)** - Fiction, worldbuilding, and long-form creative projects
+  * 🎓 **Academy** - Learning, courses, and knowledge-sharing resources
 
 ## Current Projects
 
