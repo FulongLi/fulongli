@@ -1,6 +1,6 @@
 # Hi, I'm Fulong 👋
 
-📍 **Cardiff, UK** | ⚡ **Power Electronics** | 🎓 **Ph.D.** | 🤖 **AI-assisted Design** | 🚀 **Founder @ Spirit Connect Ltd**
+📍 **Cardiff, UK** | ⚡ **Power Electronics** | 🎓 **Ph.D.** | 🤖 **AI-assisted Design** | 🚀 **Founder @ AIPE Labs**
 
 ![Power Electronics](https://img.shields.io/badge/Power_Electronics-FF6F00?style=flat-square&logoColor=white)
 ![Converter Design](https://img.shields.io/badge/Converter_Design-E65100?style=flat-square&logoColor=white)
