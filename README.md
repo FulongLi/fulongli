@@ -17,6 +17,12 @@
 ## Spirit Connect
 
 ```mermaid
+---
+config:
+  look: classic
+  flowchart:
+    minNodeWidth: 0
+---
 flowchart LR
     FANTASY(("Fantasy"))
     SC(("Spirit Connect"))
