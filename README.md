@@ -47,72 +47,90 @@ flowchart LR
 ```
 
 * 🌐 **[Spirit Connect](https://spiritconnect.co.uk/)** - Main brand and landing page for my connected research, design, and creative work
-  * 🧠 **[AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/)** - AI-assisted power electronics, power devices, design tools, and engineering agents
+  * 🧠 **[AIPE Labs](https://aipel.co.uk/)** - AI-assisted power electronics, power devices, design tools, and engineering agents
   * ✍️ **[Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/)** - Fiction, worldbuilding, and long-form creative projects
-  * 🎓 **[Academy](https://github.com/FulongLi/Spirit-Connect-Academy)** - Learning, courses, and knowledge-sharing resources
+  * 🎓 **[Academy](https://github.com/FulongLi/AIPE-Academy)** - Open, AI-guided power engineering learning resources
 
-## Current Projects
+## AIPE Ecosystem — AI for Power Engineering
 
-### Profile & Sites
+**AIPE** is an open-source-first ecosystem connecting engineering data, models, design tools, simulation workflows, research, and education. The long-term goal is to close the AI–power engineering design loop, with interoperable tools and evidence-linked engineering workflows.
 
-* 🌐 **[Spirit Connect](https://spiritconnect.co.uk/)** - Main landing page for Spirit Connect
-* 🏠 **[fulongli.github.io](https://fulongli.github.io/)** - Personal academic and professional site
-* 🌐 **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** - Spirit Connect landing page source
-* ⚡ **[Spirit-Connect-AIPE-Labs](https://github.com/FulongLi/Spirit-Connect-AIPE-Labs)** - AI-assisted power electronics lab site
-* ✍️ **[Spirit-Connect-Fantasy](https://github.com/FulongLi/Spirit-Connect-Fantasy)** - Fiction worldbuilding site
-* 🎓 **[Spirit-Connect-Academy](https://github.com/FulongLi/Spirit-Connect-Academy)** - Academy and learning platform
-* 🛠️ **[Spirit-Connect-Technology](https://github.com/FulongLi/Spirit-Connect-Technology)** - Technology projects and prototypes
+**Start here:** [AIPE Labs](https://aipel.co.uk/) · [Machine/agent-readable capability index](https://aipel.co.uk/aipe.md) · [Browse AIPE repositories](https://github.com/FulongLi?tab=repositories&q=AIPE)
 
-### AI-Assisted Power Electronics
+### Core Infrastructure
 
-* 🗄️ **[AIPE-Power-Device-Database](https://github.com/FulongLi/AIPE-Power-Device-Database)** - Power semiconductor device database and selection tools
-* 📦 **[PowerElectronicsDeviceLibrary](https://github.com/FulongLi/PowerElectronicsDeviceLibrary)** - Power electronics device reference library
-* 🤖 **[AIPE-Power-Electronics-Design-Agent](https://github.com/FulongLi/AIPE-Power-Electronics-Design-Agent)** - Agent workflow for power electronics design
-* 📉 **[AIPE-Converter-Optimisation-Agent](https://github.com/FulongLi/AIPE-Converter-Optimisation-Agent)** - AI-assisted converter optimisation
-* 🧩 **[AIPE-Simulation-Agents](https://github.com/FulongLi/AIPE-Simulation-Agents)** - Agent workflows for engineering simulation
-* 📄 **[AIPE-IEEE-Paper-Agent](https://github.com/FulongLi/AIPE-IEEE-Paper-Agent)** - IEEE paper writing and LaTeX agent workflow
-* 🧠 **[AIPE-MOSFET-ANN-Modelling](https://github.com/FulongLi/AIPE-MOSFET-ANN-Modelling)** - ANN-based MOSFET modelling
-* 🔌 **[AIPE-Solid-State-Transformer](https://github.com/FulongLi/AIPE-Solid-State-Transformer)** - Solid-state transformer modelling and design
+- **[AIPE-Core](https://github.com/FulongLi/AIPE-Core)** — Shared engineering-state schemas, data conventions, and integration contracts.
+- **[AIPE-Registry](https://github.com/FulongLi/AIPE-Registry)** — Discoverable index of AIPE repository capabilities, dependencies, and integration maturity.
+- **[AIPE-Doc](https://github.com/FulongLi/AIPE-Doc)** — Reserved documentation repository (currently empty).
 
-### Research, Grid & Optimisation
+### Engineering Data & Models
 
-* 🚗 **[AIPS-EV-Charging-Planning](https://github.com/FulongLi/AIPS-EV-Charging-Planning)** - Grid-aware EV charging station planning
-* 🔋 **[AIPS-Microgrid-EMS-Agent](https://github.com/FulongLi/AIPS-Microgrid-EMS-Agent)** - Agent-based microgrid energy management
-* 🏘️ **[DC-community](https://github.com/FulongLi/DC-community)** - Residential DC microgrid community experiments
-* 📉 **[BuckConverterOptimisation](https://github.com/FulongLi/BuckConverterOptimisation)** - Multi-objective buck converter optimisation
-* 🌍 **[Earthquake-Predictions](https://github.com/FulongLi/Earthquake-Predictions)** - Earthquake prediction experiments
+- **[AIPE-Semiconductor-Database](https://github.com/FulongLi/AIPE-Semiconductor-Database)** — Versioned power-semiconductor data, model imports, measurements, and provenance.
+- **[AIPE-Magnetics-Database](https://github.com/FulongLi/AIPE-Magnetics-Database)** — Evidence-first schemas and import workflow for magnetic components; data collection is in an early stage.
+- **[AIPE-MOSFET-ANN-Modelling](https://github.com/FulongLi/AIPE-MOSFET-ANN-Modelling)** — Neural-network models for MOSFET losses and thermal behaviour.
 
-### Power Electronics, Converters & Systems
+### AI Design, CAD & Simulation
 
-* 🔀 **[IsolatedCoverters](https://github.com/FulongLi/IsolatedCoverters)** - Isolated converter topologies
-* ➡️ **[NonisolatedCoverters](https://github.com/FulongLi/NonisolatedCoverters)** - Non-isolated converter topologies
-* 🧪 **[DCMicrogridTestBench](https://github.com/FulongLi/DCMicrogridTestBench)** - DC microgrid hardware test bench
-* 📡 **[WirelessPowerTransferTestBench](https://github.com/FulongLi/WirelessPowerTransferTestBench)** - Wireless power transfer test bench
-* 🌡️ **[HeatSinkOptimisation](https://github.com/FulongLi/HeatSinkOptimisation)** - Heat-sink thermal optimisation
+- **[AIPE-Design-Agent](https://github.com/FulongLi/AIPE-Design-Agent)** — Converter topology guidance, design calculations, and component-selection workflows.
+- **[AIPE-Converter-Optimisation-Agent](https://github.com/FulongLi/AIPE-Converter-Optimisation-Agent)** — Multi-objective converter optimisation and neural-network surrogate modelling.
+- **[AIPE-Simulation-Skills](https://github.com/FulongLi/AIPE-Simulation-Skills)** — Reusable simulation, control, CAD, PCB, and field-analysis workflows.
+- **[AIPE-Sketch](https://github.com/FulongLi/AIPE-Sketch)** — Automatic electrical schematic layout and SVG generation from a circuit graph/netlist.
+- **[AIPE-PCB-Agent](https://github.com/FulongLi/AIPE-PCB-Agent)** — KiCad-based automated PCB design and engineering review; prototype work, not hardware-qualified.
 
-### Magnetics & Sensing
+### Research & Technical References
 
-* 🧲 **[AIPE-Magnetics-Library](https://github.com/FulongLi/AIPE-Magnetics-Library)** - Magnetic component data and design resources
-* 🧠 **[AIPE-Magnetics-Agnet-Inductor-Design-Example](https://github.com/FulongLi/AIPE-Magnetics-Agnet-Inductor-Design-Example)** - Agent-based inductor design example
-* 🌀 **[PCB-Rogowski-Coil](https://github.com/FulongLi/PCB-Rogowski-Coil)** - PCB Rogowski coil current sensor
-* 📏 **[Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer)** - PCB current-transformer transducer
+- **[AIPE-IEEE-Paper-Agent](https://github.com/FulongLi/AIPE-IEEE-Paper-Agent)** — Structured, evidence-linked workflows for IEEE manuscripts and LaTeX projects.
+- **[AIPE-Solid-State-Transformer](https://github.com/FulongLi/AIPE-Solid-State-Transformer)** — Solid-state transformer design and simulation reference materials.
+- **[AIPE-Magnetics-Agnet-Inductor-Design-Example](https://github.com/FulongLi/AIPE-Magnetics-Agnet-Inductor-Design-Example)** — Inductor design drawings and reference examples.
 
-### Data, Vision & Forks
+### Learning
 
-* 👁️ **[PowerVision](https://github.com/FulongLi/PowerVision)** - Vision-based power electronics analysis (fork)
-* 🗄️ **[transistordatabase](https://github.com/FulongLi/transistordatabase)** - Unified power transistor management tool (fork of upb-lea)
-* 🧪 **[magnetchallenge](https://github.com/FulongLi/magnetchallenge)** - MagNet Challenge 2023 (fork)
+- **[AIPE-Academy](https://github.com/FulongLi/AIPE-Academy)** — An AI-guided, project-based learning path from foundations to power electronics.
 
-### Fiction & Creative Work
+## Other Projects
 
-* 🏛️ **[SCF-Ancient-Civilisations](https://github.com/FulongLi/SCF-Ancient-Civilisations)** - Ancient civilisations worldbuilding
-* 🌌 **[SCF-Another-World](https://github.com/FulongLi/SCF-Another-World)** - Another-world fiction
-* 🎨 **[SCF-Another-World-Art](https://github.com/FulongLi/SCF-Another-World-Art)** - AI art and concept design for Another World
-* 🧊 **[SCF-3D-Projector](https://github.com/FulongLi/SCF-3D-Projector)** - 3D projector concept prototype
+### Sites & Platforms
+
+- **[Spirit Connect](https://spiritconnect.co.uk/)** — Main brand and project website.
+- **[Personal Website](https://fulongli.github.io/)** — Academic and professional profile.
+- **[spiritconnect.github.io](https://github.com/FulongLi/spiritconnect.github.io)** — Spirit Connect website source.
+- **[Spirit-Connect-Technology](https://github.com/FulongLi/Spirit-Connect-Technology)** — Technology projects and prototypes.
+
+### Aion & Intelligent Presence
+
+- **[Aion-Presence-Plugin](https://github.com/FulongLi/Aion-Presence-Plugin)** — Visual presence and interactive presentation layer for Codex.
+- **[SCF-Presence-Realtime](https://github.com/FulongLi/SCF-Presence-Realtime)** — Realtime voice-driven AI presence with visual expression.
+
+### Power Electronics & Energy Systems
+
+- **[AIPS-Microgrid-EMS-Agent](https://github.com/FulongLi/AIPS-Microgrid-EMS-Agent)** — Agent-oriented microgrid energy management.
+- **[AIPS-EV-Charging-Planning](https://github.com/FulongLi/AIPS-EV-Charging-Planning)** — Grid-aware EV charging planning.
+- **[DC-community](https://github.com/FulongLi/DC-community)** — Residential DC community research.
+- **[BuckConverterOptimisation](https://github.com/FulongLi/BuckConverterOptimisation)** — Multi-objective buck converter optimisation.
+- **[IsolatedCoverters](https://github.com/FulongLi/IsolatedCoverters)** / **[NonisolatedCoverters](https://github.com/FulongLi/NonisolatedCoverters)** — Converter topology references.
+- **[DCMicrogridTestBench](https://github.com/FulongLi/DCMicrogridTestBench)** / **[WirelessPowerTransferTestBench](https://github.com/FulongLi/WirelessPowerTransferTestBench)** — Hardware test benches.
+- **[PCB-Rogowski-Coil](https://github.com/FulongLi/PCB-Rogowski-Coil)** / **[Magnetics-PCBCurrentTransformerTransducer](https://github.com/FulongLi/Magnetics-PCBCurrentTransformerTransducer)** — Current-sensing hardware.
+- **[HeatSinkOptimisation](https://github.com/FulongLi/HeatSinkOptimisation)** — Heat-sink thermal optimisation.
+- **[PowerElectronicsDeviceLibrary](https://github.com/FulongLi/PowerElectronicsDeviceLibrary)** — Power semiconductor reference library.
+
+### Creative Projects & Experiments
+
+- **[Spirit-Connect-Fantasy](https://github.com/FulongLi/Spirit-Connect-Fantasy)** — Interactive fiction and worldbuilding website.
+- **[SCF-Ancient-Civilisations](https://github.com/FulongLi/SCF-Ancient-Civilisations)** / **[SCF-Another-World](https://github.com/FulongLi/SCF-Another-World)** / **[SCF-Another-World-Art](https://github.com/FulongLi/SCF-Another-World-Art)** — Fiction, worldbuilding, and concept art.
+- **[Temporal-Slices](https://github.com/FulongLi/Temporal-Slices)** — Experimental time-slice visualisation.
+- **[Earthquake-Predictions](https://github.com/FulongLi/Earthquake-Predictions)** — Earthquake prediction experiments.
+
+### Community Resources & Forks
+
+- **[awesome-open-source-power-electronics](https://github.com/FulongLi/awesome-open-source-power-electronics)** — Curated open-source power electronics resources.
+- **[PowerVision](https://github.com/FulongLi/PowerVision)** / **[transistordatabase](https://github.com/FulongLi/transistordatabase)** / **[magnetchallenge](https://github.com/FulongLi/magnetchallenge)** — Forked research and tooling resources.
 
 ## Useful Tools for PE Engineers
 
-A curated collection of open-source tools I find valuable for power electronics research and design.
+A curated collection of open-source tools for power electronics research and design.
+
+<details>
+<summary>View engineering tools and references</summary>
 
 ### Power Electronics
 
@@ -140,6 +158,8 @@ A curated collection of open-source tools I find valuable for power electronics 
 * 🎛️ **[gem-control](https://github.com/upb-lea/gem-control)** - Linear / field-oriented controllers for GEM
 * 🤖 **[meta_RL_PMSM](https://github.com/upb-lea/meta_RL_PMSM)** - Meta RL for PMSM current control across power classes
 
+</details>
+
 ## Connect
 
-[GitHub](https://github.com/FulongLi) · [Personal Site](https://fulongli.github.io/) · [Spirit Connect](https://spiritconnect.co.uk/) · [AIPE Labs](https://fulongli.github.io/Spirit-Connect-AIPE-Labs/) · [Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/) · [Academy](https://github.com/FulongLi/Spirit-Connect-Academy)
+[GitHub](https://github.com/FulongLi) · [Personal Site](https://fulongli.github.io/) · [Spirit Connect](https://spiritconnect.co.uk/) · [AIPE Labs](https://aipel.co.uk/) · [Aion Presence](https://github.com/FulongLi/Aion-Presence-Plugin) · [Fantasy](https://fulongli.github.io/Spirit-Connect-Fantasy/) · [Academy](https://github.com/FulongLi/AIPE-Academy)
