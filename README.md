@@ -53,39 +53,48 @@ flowchart LR
 
 ## AIPE Ecosystem — AI for Power Engineering
 
-**AIPE** is an open-source-first ecosystem connecting engineering data, models, design tools, simulation workflows, research, and education. The long-term goal is to close the AI–power engineering design loop, with interoperable tools and evidence-linked engineering workflows.
+**AIPE** is the engineering ecosystem I am building to connect power-electronics data, analytical models, simulation, design automation, research, and education. The current focus is a shared **Engineering State** and executable, evidence-linked workflows: specialist tools exchange explicit inputs, assumptions, results, and provenance through a coordinated design process.
 
-**Start here:** [AIPE Labs](https://aipel.co.uk/) · [Machine/agent-readable capability index](https://aipel.co.uk/aipe.md) · [Browse AIPE repositories](https://github.com/FulongLi?tab=repositories&q=AIPE)
+**Start here:** [AIPE Labs](https://aipel.co.uk/) · [Capability index](https://github.com/FulongLi/AIPE-Registry/blob/main/generated/aipe.md) · [Engineering workflows](https://github.com/FulongLi/AIPE-Workflows) · [Browse AIPE repositories](https://github.com/FulongLi?tab=repositories&q=AIPE)
 
-### Core Infrastructure
+### Current Milestone: 10 kW DAB Engineering Workflow
 
-- **[AIPE-Core](https://github.com/FulongLi/AIPE-Core)** — Shared engineering-state schemas, data conventions, and integration contracts.
-- **[AIPE-Registry](https://github.com/FulongLi/AIPE-Registry)** — Discoverable index of AIPE repository capabilities, dependencies, and integration maturity.
-- **[AIPE-Doc](https://github.com/FulongLi/AIPE-Doc)** — Reserved documentation repository (currently empty).
+The [10 kW dual-active-bridge benchmark](https://github.com/FulongLi/AIPE-Workflows/blob/main/examples/dab-10kw/README.md) connects **800 V → 400 V at 100 kHz** across analytical sizing, ngspice switching simulation and control analysis, device screening, waveform-informed magnetics, cooling design, Gmsh/Elmer field simulation, and FreeCAD geometry. Checkpointed task graphs retain hashed artifacts and engineering evidence; feedback runs feed magnetics and FEM parameters back into the circuit model.
 
-### Engineering Data & Models
+The recorded run has executed software, analytical, circuit-simulation, and field-simulation checks. KiCad checks also run, with DAB board routing still in progress; the benchmark remains a prototype without measurement or hardware qualification. [Review package and verification record](https://github.com/FulongLi/AIPE-Workflows/tree/main/examples/dab-10kw/results).
 
-- **[AIPE-Semiconductor-Database](https://github.com/FulongLi/AIPE-Semiconductor-Database)** — Versioned power-semiconductor data, model imports, measurements, and provenance.
-- **[AIPE-Magnetics-Database](https://github.com/FulongLi/AIPE-Magnetics-Database)** — Evidence-first schemas and import workflow for magnetic components; data collection is in an early stage.
-- **[AIPE-MOSFET-ANN-Modelling](https://github.com/FulongLi/AIPE-MOSFET-ANN-Modelling)** — Neural-network models for MOSFET losses and thermal behaviour.
+### Shared Infrastructure
 
-### AI Design, CAD & Simulation
+- **[AIPE-Core](https://github.com/FulongLi/AIPE-Core)** — Engineering State schemas, SI-unit and evidence conventions, and interoperability contracts.
+- **[AIPE-Registry](https://github.com/FulongLi/AIPE-Registry)** — Validates repository capability manifests and generates a discoverable index of tools, dependencies, and integration maturity.
+- **[AIPE-Workflows](https://github.com/FulongLi/AIPE-Workflows)** — Coordinates specialist tools through reproducible task graphs, checkpoints, verification gates, feedback iterations, and review packages.
+- **[AIPE-Doc](https://github.com/FulongLi/AIPE-Doc)** — English and Chinese HTML document and slide templates, browser PDF export, and the presentation layer for engineering review reports.
 
-- **[AIPE-Design-Agent](https://github.com/FulongLi/AIPE-Design-Agent)** — Converter topology guidance, design calculations, and component-selection workflows.
-- **[AIPE-Converter-Optimisation-Agent](https://github.com/FulongLi/AIPE-Converter-Optimisation-Agent)** — Multi-objective converter optimisation and neural-network surrogate modelling.
-- **[AIPE-Simulation-Skills](https://github.com/FulongLi/AIPE-Simulation-Skills)** — Reusable simulation, control, CAD, PCB, and field-analysis workflows.
-- **[AIPE-Sketch](https://github.com/FulongLi/AIPE-Sketch)** — Automatic electrical schematic layout and SVG generation from a circuit graph/netlist.
-- **[AIPE-PCB-Agent](https://github.com/FulongLi/AIPE-PCB-Agent)** — KiCad-based automated PCB design and engineering review; prototype work, not hardware-qualified.
+### Engineering Data, Models & Design
 
-### Research & Technical References
+- **[AIPE-Semiconductor-Database](https://github.com/FulongLi/AIPE-Semiconductor-Database)** — Versioned device data, manufacturer-model imports, evidence lineage, device screening, loss evaluation, and measurement-request interfaces.
+- **[AIPE-Magnetics-Database](https://github.com/FulongLi/AIPE-Magnetics-Database)** — Magnetic data and loss models, waveform-informed inductor and transformer design, and verification evidence.
+- **[AIPE-Electrical-Design](https://github.com/FulongLi/AIPE-Electrical-Design)** — Analytical converter models, single-phase-shift DAB analysis, and DC–DC sizing; successor to the former Design Agent's electrical calculations.
+- **[AIPE-Thermal-Design](https://github.com/FulongLi/AIPE-Thermal-Design)** — Heat-sink models, thermal networks, electrothermal iteration, cooling-concept comparison, and Pareto screening.
+- **[AIPE-Converter-Optimisation-Agent](https://github.com/FulongLi/AIPE-Converter-Optimisation-Agent)** — Multi-objective loss/volume optimisation and neural-network surrogate modelling for a buck-type inverter.
+- **[AIPE-MOSFET-ANN-Modelling](https://github.com/FulongLi/AIPE-MOSFET-ANN-Modelling)** — Neural-network models for MOSFET conduction, switching losses, and thermal impedance.
 
-- **[AIPE-IEEE-Paper-Agent](https://github.com/FulongLi/AIPE-IEEE-Paper-Agent)** — Structured, evidence-linked workflows for IEEE manuscripts and LaTeX projects.
-- **[AIPE-Solid-State-Transformer](https://github.com/FulongLi/AIPE-Solid-State-Transformer)** — Solid-state transformer design and simulation reference materials.
-- **[AIPE-Magnetics-Agnet-Inductor-Design-Example](https://github.com/FulongLi/AIPE-Magnetics-Agnet-Inductor-Design-Example)** — Inductor design drawings and reference examples.
+### Simulation, Schematics, CAD & PCB
 
-### Learning
+- **[AIPE-Simulation-Skills](https://github.com/FulongLi/AIPE-Simulation-Skills)** — Agent workflows plus executable ngspice DAB simulations, waveform analysis, and a host-side control baseline; open-source tools are the default path.
+- **[AIPE-Field-Simulation](https://github.com/FulongLi/AIPE-Field-Simulation)** — Gmsh/Elmer finite-element workflows for thermal and electromagnetic analysis, with analytical benchmarks and mesh-convergence records.
+- **[AIPE-Sketcher](https://github.com/FulongLi/AIPE-Sketcher)** — Circuit descriptions and Engineering State inputs to SVG schematics, with connectivity validation and provenance.
+- **[AIPE-CAD-Agent](https://github.com/FulongLi/AIPE-CAD-Agent)** — Parametric FreeCAD geometry for transformers, cooling, and converter assemblies, with STEP export and interference/clearance review.
+- **[AIPE-PCB-Agent](https://github.com/FulongLi/AIPE-PCB-Agent)** — Requirements to KiCad schematics, board placement/routing, native ERC/DRC checks, and exports; SiC buck and three-board DAB examples.
 
-- **[AIPE-Academy](https://github.com/FulongLi/AIPE-Academy)** — An AI-guided, project-based learning path from foundations to power electronics.
+### Research, Learning & References
+
+- **[AIPE-IEEE-Paper-Agent](https://github.com/FulongLi/AIPE-IEEE-Paper-Agent)** — Evidence-linked paper planning, IEEE venue-specific LaTeX workspaces, and citation/manuscript audits.
+- **[AIPE-Academy](https://github.com/FulongLi/AIPE-Academy)** — AI-guided learning across foundations, power electronics, power systems, and renewable energy, with reproducible Python labs and agent interfaces.
+- **[AIPE-Solid-State-Transformer](https://github.com/FulongLi/AIPE-Solid-State-Transformer)** — Solid-state transformer design and simulation references.
+- **[Inductor Design Examples](https://github.com/FulongLi/AIPE-Magnetics-Agnet-Inductor-Design-Example)** — Magnetic-component drawings and reference examples.
+
+*AIPE project snapshot: 28 October 2026. Individual repositories document their current maturity, validation evidence, and licences.*
 
 ## Other Projects
 
