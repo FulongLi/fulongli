@@ -57,12 +57,6 @@ flowchart LR
 
 **Start here:** [AIPE Labs](https://aipel.co.uk/) · [Capability index](https://github.com/FulongLi/AIPE-Registry/blob/main/generated/aipe.md) · [Engineering workflows](https://github.com/FulongLi/AIPE-Workflows) · [Browse AIPE repositories](https://github.com/FulongLi?tab=repositories&q=AIPE)
 
-### Current Milestone: 10 kW DAB Engineering Workflow
-
-The [10 kW dual-active-bridge benchmark](https://github.com/FulongLi/AIPE-Workflows/blob/main/examples/dab-10kw/README.md) connects **800 V → 400 V at 100 kHz** across analytical sizing, ngspice switching simulation and control analysis, device screening, waveform-informed magnetics, cooling design, Gmsh/Elmer field simulation, and FreeCAD geometry. Checkpointed task graphs retain hashed artifacts and engineering evidence; feedback runs feed magnetics and FEM parameters back into the circuit model.
-
-The recorded run has executed software, analytical, circuit-simulation, and field-simulation checks. KiCad checks also run, with DAB board routing still in progress; the benchmark remains a prototype without measurement or hardware qualification. [Review package and verification record](https://github.com/FulongLi/AIPE-Workflows/tree/main/examples/dab-10kw/results).
-
 ### Shared Infrastructure
 
 - **[AIPE-Core](https://github.com/FulongLi/AIPE-Core)** — Engineering State schemas, SI-unit and evidence conventions, and interoperability contracts.
